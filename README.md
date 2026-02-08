@@ -18,6 +18,10 @@ A curated set of **dark** Zed themes designed for long coding sessions (OLED-fri
 | GhostTrial | `themes/experimental/lumenfold-ghosttrial.json` | ![GhostTrial](screenshots/ghosttrial.png) |
 | Flawless1 | `themes/experimental/flawless1.json` | ![Flawless1](screenshots/flawless1.png) |
 
+> **Important:** The blue circular shape is a screenshot artifact and **is not part of the theme**.
+
+
+
 ## Install (Local Themes)
 
 Put any theme JSON file into your Zed themes directory:
