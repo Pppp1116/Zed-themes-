@@ -9,7 +9,13 @@ A curated set of **dark** Zed themes designed for long coding sessions (OLED-fri
 | NightKerning | `themes/lumenfold-nightkerning.json` | ![NightKerning](screenshots/nightkerning.png) |
 | Convergence | `themes/lumenfold-convergence.json` | ![Convergence](screenshots/convergence.png) |
 | EmberKerning | `themes/lumenfold-emberkerning.json` | ![EmberKerning](screenshots/emberkerning.png) |
+| VioletKerning | `themes/lumenfold-violetkerning.json` | ![VioletKerning](screenshots/violetkerning.png) |
 | OpticNeutral | `themes/lumenfold-opticneutral.json` | ![OpticNeutral](screenshots/opticneutral.png) |
+
+### Screenshot note
+
+> **Important:** The blue circular shape visible in some screenshots is a **screenshot artifact only**.  
+> It **does not appear in the theme**, **does not ship with LumenFold**, and **will not be visible in Zed during normal use**.
 
 ### Experimental
 
@@ -40,7 +46,6 @@ powershell -ExecutionPolicy Bypass -File scripts/install.ps1
 ## Notes
 
 - Theme payloads (colors) are intentionally kept stable. Changes in this repo should be limited to packaging, naming, documentation, and screenshots unless explicitly requested.
-- `lumenfold-opticneutral.json` is provided as a **single-theme** file (no bundled extras).
 
 ## Repository layout
 
